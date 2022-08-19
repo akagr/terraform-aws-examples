@@ -1,0 +1,9 @@
+* Terraform Examples
+
+This repository contains a set of examples built as learning material. The focus is to not use external modules as much as possible.
+
+** Getting started
+
+#+BEGIN_SRC bash
+  terraform apply
+#+END_SRC
